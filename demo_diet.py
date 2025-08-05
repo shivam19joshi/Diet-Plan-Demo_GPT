@@ -23,8 +23,8 @@ def get_diet_plan(category):
         "Underweight": {
             "Breakfast": "Peanut butter toast + Banana + Milkshake",
             "Lunch": "Rice + Paneer curry + Dal + Ghee + Salad",
-            "Snacks": "Dry fruits + Cheese sandwich",
-            "
+            "Snacks": "Dry fruits + Cheese sandwich"
+
         },
         "Normal weight": {
             "Breakfast": "Oats + Fruits + Boiled egg / Milk",
