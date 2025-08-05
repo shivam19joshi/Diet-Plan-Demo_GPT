@@ -24,7 +24,7 @@ def get_diet_plan(category):
             "Breakfast": "Peanut butter toast + Banana + Milkshake",
             "Lunch": "Rice + Paneer curry + Dal + Ghee + Salad",
             "Snacks": "Dry fruits + Cheese sandwich",
-            "Dinner": "Roti + Veg curry + Yogurt + Sweet"
+            "
         },
         "Normal weight": {
             "Breakfast": "Oats + Fruits + Boiled egg / Milk",
@@ -48,7 +48,7 @@ def get_diet_plan(category):
     return plans.get(category, {})
 
 # --- Streamlit UI ---
-st.title("🍎 Personalized Diet Planner")
+st.title("☠️Personalized Diet Planner")
 
 st.write("Enter your details to get a personalized diet suggestion.")
 
